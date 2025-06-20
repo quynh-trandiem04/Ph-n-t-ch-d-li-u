@@ -15,12 +15,12 @@ Dự án nhằm phân tích thị trường, hành vi khách hàng và chiến l
 ---
 
 ## 🧩 Thành viên 
-| Họ và Tên              
-|------------------------
-| Châu Nhật Huân         
-| Phạm Quỳnh Thư         
-| Trần Diễm Quỳnh        
-| Nguyễn Thị Hồng Thơ   
+| Họ và tên             | Vai trò       |
+|-----------------------|----------------|
+| Châu Nhật Huân        | Nhóm trưởng    |
+| Trần Diễm Quỳnh       | Thành viên    |
+| Phạm Quỳnh Thư        | Thành viên     |
+| Nguyễn Thị Hồng Thơ   | Thành viên     |
 
 ---
 
