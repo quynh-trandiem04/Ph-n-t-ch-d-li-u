@@ -36,21 +36,6 @@ Dự án nhằm phân tích thị trường, hành vi khách hàng và chiến l
 
 ---
 
-## 📁 Cấu trúc thư mục (gợi ý)
-📦PTDL_Tiki
-┣ 📂data
-┃ ┣ crawled_data.csv
-┃ ┗ cleaned_data.csv
-┣ 📂notebooks
-┃ ┣ eda.ipynb
-┃ ┣ model_prediction.ipynb
-┃ ┗ sentiment_analysis.ipynb
-┣ 📂streamlit_app
-┃ ┗ app.py
-┣ 📂powerbi
-┃ ┗ dashboard.pbix
-┗ README.md
-
 ## 🚀 Cách chạy ứng dụng
 streamlit run streamlit_app/app.py
 ### Tạo môi trường ảo và cài thư viện
