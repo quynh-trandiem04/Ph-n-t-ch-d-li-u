@@ -37,6 +37,7 @@ Dự án nhằm phân tích thị trường, hành vi khách hàng và chiến l
 ---
 
 ## 🚀 Cách chạy ứng dụng
+```bash
 streamlit run streamlit_app/app.py
 ### Tạo môi trường ảo và cài thư viện
 ```bash
